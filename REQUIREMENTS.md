@@ -11,15 +11,17 @@ Describe everything needed to fully understand relationships
  - One statement per line, no exceptions. Is it harsh? Yes, do I care? No
     What does it mean? If you write:
 
-    I().find().your().lack().of().faith().disturbing();
-
+```javascript
+I().find().your().lack().of().faith().disturbing();
+```
  -    pull the cord from your computer and rewrite it like this:
 
-    use()  
-        .the()  
-        .force()  
-        .luke();  
-
+```javascript
+use()  
+    .the()  
+    .force()  
+    .luke();  
+```
 ## Naming Conventions
 
  - Classes start with a upper case letter and have no dashes, no underscores in
