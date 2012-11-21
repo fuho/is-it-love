@@ -8,8 +8,8 @@ Describe everything needed to fully understand relationships
 
  - Strive to fit your code into 80 characters per line, this is not always
     possible, but it is possible more often that you think.:)
- - One statement per line, no exceptions. Is it harsh? Yes, do I care? No
-    What does it mean? If you write:
+ - One statement per line, no exceptions. Is it harsh? Yes, do I care? No. 
+ What does it mean you say? If you write:
 
 ```javascript
 I().find().your().lack().of().faith().disturbing();
