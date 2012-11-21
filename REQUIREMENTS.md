@@ -29,4 +29,4 @@ use()
     this document think of javascript constructors as of Classes.
  - variable names start with lowercase letter and words are divided by
     underscore, no special characters allowed, basically:
-    - Valid name can be : __ r/[a-z][a-zA-Z0-9_]+/ __
+    - Valid name can be : `r/[a-z][a-zA-Z0-9_]+/` 
