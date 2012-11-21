@@ -6,9 +6,19 @@ Describe everything needed to fully understand relationships
 
 ## Code Formating
 
- - Strive to fit your coe into 80 characters per line, this is not always
-    possible, but on the other is possible more often that you think :)
+ - Strive to fit your code into 80 characters per line, this is not always
+    possible, but it is possible more often that you think.:)
  - One statement per line, no exceptions. Is it harsh? Yes, do I care? No
+    What does it mean? If you write:
+
+    I().find().your().lack().of().faith().disturbing();
+
+ -    pull the cord from your computer and rewrite it like this:
+
+    use()  
+        .the()  
+        .force()  
+        .luke();  
 
 ## Naming Conventions
 
